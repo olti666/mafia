@@ -3,7 +3,7 @@ Setup and Gameplay!
 Setup: 
 
 1. Clone the project to your env or download as .zip and unzip to the env.
-2. Import the db dump 'mafia_game.sql' to your database.
+2. Create a table and import the db dump 'mafia_game.sql' to your database.
 3. Change the database values in this path src/classes/Database.php.
 
 Gameplay:
