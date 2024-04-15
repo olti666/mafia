@@ -26,4 +26,4 @@ Additional Info:
 
 
 
-Thank you & Have fun playing :D!
+Thank you & Have fun playing! :D
