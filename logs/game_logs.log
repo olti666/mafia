@@ -1,0 +1,41 @@
+[2024-04-15 08:53:01] local.INFO Players Generated! 
+[2024-04-15 08:53:01] local.INFO Roles assigned! 
+[2024-04-15 08:53:01] local.INFO -====Game started ID: 153 ====- 
+[2024-04-15 08:53:08] local.INFO Game Phase Changed: night 
+[2024-04-15 08:53:09] local.INFO Player with ID: 881 accused player with ID: 882 
+[2024-04-15 08:53:09] local.INFO Player with ID: 881 voted player with ID: 882 
+[2024-04-15 08:53:11] local.INFO Player with ID: 884 accused player with ID: 882 
+[2024-04-15 08:53:11] local.INFO Player with ID: 885 accused player with ID: 882 
+[2024-04-15 08:53:11] local.INFO Player with ID: 881 voted player with ID: 882 
+[2024-04-15 08:53:11] local.INFO Player with ID: 884 voted player with ID: 882 
+[2024-04-15 08:53:11] local.INFO Player with ID: 885 voted player with ID: 882 
+[2024-04-15 08:53:11] local.INFO Mafia killed Player ID: 882 
+[2024-04-15 08:53:11] local.INFO Players finished voting 
+[2024-04-15 08:53:15] local.INFO Game Phase Changed: day 
+[2024-04-15 08:53:15] local.INFO Doctor used their skills! 
+[2024-04-15 08:53:15] local.INFO Player with ID: 887 accused player with ID: 881 
+[2024-04-15 08:53:15] local.INFO Detective used their skills! 
+[2024-04-15 08:53:18] local.INFO Player with ID: 885 accused player with ID: 886 
+[2024-04-15 08:53:18] local.INFO Player with ID: 884 accused player with ID: 886 
+[2024-04-15 08:53:18] local.INFO Player with ID: 886 accused player with ID: 881 
+[2024-04-15 08:53:18] local.INFO Player with ID: 890 accused player with ID: 881 
+[2024-04-15 08:53:18] local.INFO Player with ID: 883 accused player with ID: 881 
+[2024-04-15 08:53:18] local.INFO Player with ID: 888 accused player with ID: 881 
+[2024-04-15 08:53:18] local.INFO Player with ID: 889 accused player with ID: 881 
+[2024-04-15 08:53:18] local.INFO Player with ID: 883 voted player with ID: 881 
+[2024-04-15 08:53:18] local.INFO Player with ID: 884 voted player with ID: 881 
+[2024-04-15 08:53:18] local.INFO Player with ID: 885 voted player with ID: 881 
+[2024-04-15 08:53:18] local.INFO Player with ID: 886 voted player with ID: 881 
+[2024-04-15 08:53:18] local.INFO Player with ID: 887 voted player with ID: 881 
+[2024-04-15 08:53:18] local.INFO Player with ID: 888 voted player with ID: 881 
+[2024-04-15 08:53:18] local.INFO Player with ID: 889 voted player with ID: 881 
+[2024-04-15 08:53:18] local.INFO Player with ID: 890 voted player with ID: 881 
+[2024-04-15 08:53:18] local.INFO Town kicked Player ID: 881 
+[2024-04-15 08:53:18] local.INFO Players finished voting 
+[2024-04-15 08:53:22] local.INFO Game Phase Changed: night 
+[2024-04-15 08:53:25] local.INFO Player with ID: 884 accused player with ID: 889 
+[2024-04-15 08:53:25] local.INFO Player with ID: 885 accused player with ID: 889 
+[2024-04-15 08:53:25] local.INFO Player with ID: 884 voted player with ID: 889 
+[2024-04-15 08:53:25] local.INFO Player with ID: 885 voted player with ID: 889 
+[2024-04-15 08:53:25] local.INFO Mafia killed Player ID: 889 
+[2024-04-15 08:53:25] local.INFO Players finished voting 

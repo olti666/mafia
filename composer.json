@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "": "src/classes",
+            "Model\\": "src/models",
+            "Tools\\": "src/tools"
+        }
+    },
+
+    "require": {
+        "smeghead/php-class-diagram": "^1.2"
+    }
+}
