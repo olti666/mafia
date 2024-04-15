@@ -22,3 +22,8 @@ Additional Info:
 6. Real time updates of votes during the day.
 7. During the night everything is silent...
 8. Find UML under diagrams/uml/mafia-game-uml.png.
+9. Laragon used, my env is under php version 8.1
+
+
+
+Thank you & Have fun playing :D!
