@@ -10,7 +10,7 @@ Gameplay:
 
 1. Register and login.
 2. Press play.
-3. Have Fun!
+3. Have Fun !important
 
 Additional Info:
 
